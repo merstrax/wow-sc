@@ -1,8 +1,6 @@
 # <span style="text-decoration:underline">Scout</span>
 
----
 ## Base
----
 
 ### Description
 
@@ -23,9 +21,7 @@ Class description and playstyle.
     -  [<span style="color:#deb0fc">Passive Effect</span>] Resilient Fighter : You have a 3.33% chance per stack to reduce incoming damage by 20%, clear all stacks when this happens.
     -  [<span style="color:#deb0fc">Passive Effect</span>] Persistent Fighter : Increase energy regen by 10% and reduce your GCD by 6.67% per stack.
 
----
 ##  Spec 1 - Zealot
----
 
 ### Description:
 
@@ -42,9 +38,7 @@ Spec description and playstyle.
 - [<span style="color:#63cece">Spec Passive</span>] Healthy : Increase max health by 25%
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
 
----
 ## Spec 2 - Adept
----
 
 ### Description:
 

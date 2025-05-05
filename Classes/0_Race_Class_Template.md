@@ -1,8 +1,6 @@
 # <span style="text-decoration:underline">Class Name</span>
 
----
 ## Base
----
 
 ### Description:
 
@@ -22,9 +20,8 @@ Class description and playstyle.
 - [<span style="color:#b677e0">Base Passive</span>] Passive Name : Description 
     -  [<span style="color:#deb0fc">Passive Effect</span>] Extended Passive Effect : Description
 
----
 ## Spec 1 - Name
----
+
 ### Description:
 
 Spec description and playstyle.
@@ -40,9 +37,7 @@ Spec description and playstyle.
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
 
----
 ## Spec 2 - Name
----
 
 ### Description:
 
@@ -58,4 +53,3 @@ Spec description and playstyle.
 
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
-

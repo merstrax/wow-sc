@@ -1,8 +1,6 @@
 # Infantry
 
----
 ## Base
----
 
 ### Description:
 
@@ -21,9 +19,7 @@ Class description and playstyle.
 
 - [<span style="color:#b677e0">Base Passive</span>] Steady Aim : Your chance to hit is reduced by 33% while moving and for 2 seconds after.
 
----
 ## Spec 1 - Marine
----
 
 ### Description:
 
@@ -40,9 +36,7 @@ Spec description and playstyle.
 - [<span style="color:#63cece">Spec Passive</span>] Focused Fire : Whenever you deal damage to a target, mark it. Other marines who attack this target deal increased damage per stack. (Stacks x amount of times)
 - [<span style="color:#63cece">Spec Passive</span>] Passive Name : Description
 
----
 ## Spec 2 - Medic
----
 
 ### Description:
 

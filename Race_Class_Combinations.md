@@ -1,8 +1,6 @@
 # Race Class Combinations
 
----
 ## Terran
----
 
 ### Racials
 
@@ -34,9 +32,7 @@ Specs:
 - Ghost (Long Range Sniper and Utility)
 - Spectre (Short Range Assassin)
 
----
 ## Protoss
----
 
 ### Racials
 
